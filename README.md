@@ -28,7 +28,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Giacomop19&count_private=true&show_icons=true&bg_color=00000000&hide_border=true&text_color=86888b" alt="Byloth's GitHub 		Stats" title="Giacomop19's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Giacomop19&count_private=true&show_icons=true&bg_color=00000000&hide_border=true&text_color=86888b" alt="Giacomop19's GitHub 		Stats" title="Giacomop19's GitHub Stats" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giacomop19&hide=html&langs_count=10&layout=compact&bg_color=00000000&hide_border=true&text_color=86888b" 			alt="Giacomop19's GitHub Stats" title="Giacomop19's GitHub Stats" />
