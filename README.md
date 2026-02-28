@@ -28,10 +28,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Giacomop19&count_private=true&show_icons=true&bg_color=00000000&hide_border=true&text_color=86888b" alt="Giacomop19's GitHub 		Stats" title="Giacomop19's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Giacomop19&count_private=true&show_icons=true&bg_color=00000000&hide_border=true&text_color=86888b" alt="Giacomop19's GitHub Stats" title="Giacomop19's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giacomop19&hide=html&langs_count=10&layout=compact&bg_color=00000000&hide_border=true&text_color=86888b" 			alt="Giacomop19's GitHub Stats" title="Giacomop19's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giacomop19&hide=html&langs_count=10&layout=compact&bg_color=00000000&hide_border=true&text_color=86888b" alt="Giacomop19's GitHub Stats" title="Giacomop19's GitHub Stats" />
       </td>
     </tr>
   </table>
@@ -44,8 +44,8 @@
 
 <div align="center">
   <a href="https://www.instagram.com/giacomo_puma/" title="Instagram"><img src="https://img.shields.io/static/v1?color=E4405F&label=&logo=instagram&logoColor=white&message=Instagram&style=flat" alt="Instagram logo" /></a>		
-  <a href="https://www.twitch.tv/elpumpil" title="Twitch"><img src="https://img.shields.io/static/v1?color=9146FF&label=&logo=twitch&logoColor=white&message=Twitch&style=flat" alt="Twitch 	logo" /></a>
-  <a href="https://www.youtube.com/@giacomopuma4830" title="YouTube"><img src="https://img.shields.io/static/v1?color=FF0000&label=&logo=youtube&logoColor=white&message=YouTube&style=flat" 	alt="YouTube logo" /></a>
+  <a href="https://www.twitch.tv/elpumpil" title="Twitch"><img src="https://img.shields.io/static/v1?color=9146FF&label=&logo=twitch&logoColor=white&message=Twitch&style=flat" alt="Twitch logo" /></a>
+  <a href="https://www.youtube.com/@giacomopuma4830" title="YouTube"><img src="https://img.shields.io/static/v1?color=FF0000&label=&logo=youtube&logoColor=white&message=YouTube&style=flat" alt="YouTube logo" /></a>
 </div>
 
 
