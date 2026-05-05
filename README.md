@@ -28,10 +28,10 @@
   <table>
     <tr>
       <td>
-        <img src="[![Giacomos's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Giacomop19)](https://github.com/pranesh-2005/github-readme-stats-fast)" alt="Giacomop19's GitHub Stats" title="Giacomop19's GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Giacomop19&show_icons=true&theme=tokyonight" alt="Giacomop19's GitHub Stats" title="Giacomop19's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Giacomop19" alt="Giacomop19's GitHub Stats" title="Giacomop19's GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Giacomop19&show_icons=true&theme=tokyonight" alt="Giacomop19's GitHub Stats" title="Giacomop19's GitHub Stats" />
       </td>
     </tr>
   </table>
